@@ -1,5 +1,10 @@
 # Drosera-Node
 Running Drosera Node with 2 core vps
+##Fundraising Drosera
+
+![Fundraising Drosera (sumber: Cryptorank)](https://raw.githubusercontent.com/nicomunasatya/Drosera-Node/main/img/fundraising%20drosera.png)
+
+![Fundraising Drosera (sumber: Cryptorank)](https://raw.githubusercontent.com/nicomunasatya/Drosera-Node/main/img/fundraising%20drosera%20from%20cryptorank.png)
 
 # Drosera-Network
 In this Guide, we contribute to Drosera testnet by:
